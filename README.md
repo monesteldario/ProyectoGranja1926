@@ -5,3 +5,9 @@ Este es un proyecto que desarrollé en la universidad, para el curso de Ambiente
 * Javascript.
 * Font Awesome 5 (íconos).
 * PHP
+## ¿Qué se puede hacer en la página?
+* Conocer acerca del negocio (contacto, información general, ubicación).
+* Visualizar los productos que ofrece la granja avícola (huevos en diferentes presentaciones) y sus precios.
+* Añadir productos a un carrito de compras.
+* Confirmar la compra y realizar el pago por medio de la pasarela de pago de Paypal (de prueba).
+* En el modo administrador, se permite administrar los productos a la venta, la información relevante productoras de los huevos (gallinas) y administrar proveedores. 
